@@ -35,3 +35,5 @@ Finally, you want to run the server/backend and the twitlist app/frontend. Run t
 ![twitter-startup](https://user-images.githubusercontent.com/39749288/213901320-a176eb95-9dd5-431b-8fce-77061489e58a.gif)
 
 That should be it! Enjoy your browsing!
+
+The backend/server was made using a template by express-draft from here https://www.npmjs.com/package/express-draft!
