@@ -26,7 +26,7 @@ You can click on any image to inspect it closer (in a slideshow) and download an
 
 To use this, you have to run the command  <b>npm install</b> in <b>BOTH</b> directories (twitlist/backend) to install the dependencies!
 
-Then, you need to setup your Twitter Keys/Tokens (generate them here http://developer.twitter.com/) inside the .env file in the backend directory.
+Then, you need to setup your Twitter Keys/Tokens (generate them here http://developer.twitter.com/) inside a .env file in the backend directory. Make it exactly as shown below!
 
 ![twitter-setup-keys](https://user-images.githubusercontent.com/39749288/213900842-89156d40-ade1-410f-a621-a992067699be.gif)
 
